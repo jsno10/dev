@@ -5,9 +5,6 @@ DEV
 * [jdk7](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
 * [tomcat](https://tomcat.apache.org/download-80.cgi)
 
-DB
--
-
 TEXT
 -
 * [sublimetext](https://www.sublimetext.com/)
