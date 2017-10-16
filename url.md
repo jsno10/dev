@@ -11,3 +11,7 @@ DB
 TEXT
 -
 * [sublimetext](https://www.sublimetext.com/)
+
+ETC
+-
+* [DesktopCal](http://software.naver.com/software/summary.nhn?softwareId=MFS_116456)
