@@ -1,7 +1,8 @@
 
 TEXT
 -
-[sublime][link]
-[link] : https://www.sublimetext.com/3 "서브라임"
-link: https://www.sublimetext.com/3 "서브라임"
+[link keyword][id]
+[id]: URL "Optional Title here"
 
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
