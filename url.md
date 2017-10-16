@@ -1,8 +1,8 @@
+DEV
+-
+[eclipse](https://www.eclipse.org/)
+[jdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 TEXT
 -
-[link keyword][id]
-[id]: URL "Optional Title here"
-
-Link: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
+[sublimetext](https://www.sublimetext.com/)
